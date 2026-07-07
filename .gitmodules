@@ -1,0 +1,33 @@
+[submodule "specforge-web"]
+	path = specforge-web
+	url = https://github.com/specforge-ai/specforge-web.git
+[submodule "specforge-api"]
+	path = specforge-api
+	url = https://github.com/specforge-ai/specforge-api.git
+[submodule "specforge-agent-orchestrator"]
+	path = specforge-agent-orchestrator
+	url = https://github.com/specforge-ai/specforge-agent-orchestrator.git
+[submodule "specforge-diagram-engine"]
+	path = specforge-diagram-engine
+	url = https://github.com/specforge-ai/specforge-diagram-engine.git
+[submodule "specforge-doc-generator"]
+	path = specforge-doc-generator
+	url = https://github.com/specforge-ai/specforge-doc-generator.git
+[submodule "specforge-mcp-server"]
+	path = specforge-mcp-server
+	url = https://github.com/specforge-ai/specforge-mcp-server.git
+[submodule "specforge-evals"]
+	path = specforge-evals
+	url = https://github.com/specforge-ai/specforge-evals.git
+[submodule "specforge-infra"]
+	path = specforge-infra
+	url = https://github.com/specforge-ai/specforge-infra.git
+[submodule "specforge-templates"]
+	path = specforge-templates
+	url = https://github.com/specforge-ai/specforge-templates.git
+[submodule "specforge-docs"]
+	path = specforge-docs
+	url = https://github.com/specforge-ai/specforge-docs.git
+[submodule ".github"]
+	path = .github
+	url = https://github.com/specforge-ai/.github.git
